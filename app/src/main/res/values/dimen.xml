@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding-->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="padding_large">15dp</dimen>
+    <!--Text Size-->
+    <dimen name="textSizeList">18sp</dimen>
+    <dimen name="textSizeListAbout">16sp</dimen>
+    <dimen name="textSizeTab">16sp</dimen>
+</resources>

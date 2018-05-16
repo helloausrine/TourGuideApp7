@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Discover Belgium</string>
+
+    <!--Lists-->
+    <string name="cities">Cities</string>
+    <string name="castles">Castles</string>
+    <string name="museums">Museums</string>
+    <string name="siteSeeing">Site Seeing</string>
+
+    <!--Cities-->
+    <string name="city1">Brugge</string>
+    <string name="city1about">Brugge is an outstanding example of a medieval historic settlement, which has maintained its historic fabric as this has evolved over the centuries, and where original Gothic constructions form part of the town\'s identity. As one of the commercial and cultural capitals of Europe, Brugge developed cultural links to different parts of the world. It is closely associated with the school of Flemish Primitive painting. </string>
+    <string name="city2">Antwerp</string>
+    <string name="city2about">Antwerp – city on the Scheldt, city of Rubens, of diamonds, of fashion, a port city. The sum of all these different aspects is what makes Antwerp into a real city: a vibrant, welcoming metropolis, which is also great fun and heart-warming, with green areas where you can relax and peaceful corners. Antwerp is a veritable cultural capital, which prides itself on its impressive architecture and splendid art. Moreover, Antwerp is a fashionista’s dream destination thanks to the stores of its world-renowned designers.</string>
+    <string name="city3">Brussels</string>
+    <string name="city3about">Brussels, the capital of 500 million Europeans, is waiting to share its treasures and talents with you and to tell you its story. It has an ability to adapt to its visitors: no matter when you come, there’s always something happening here; no matter how long you stay, there are several different ways to experience Brussels, each with some brilliant surprises in store. A multicoloured heritage of the most diverse styles, a contagious creativity tinged with surrealism and humour, a sociable and epicurean art de vivre. Order of the day: fashion and design, comic strip, chocolate, beer, music and surrealism, sociability and more than 100 museums, high-tech and surprising meeting rooms and a whole constellation of hotels. See you soon! </string>
+
+    <!--Castles-->
+    <string name="castle1">Gravensteen, East Flanders</string>
+    <string name="castle1about">The Gravensteen Castle (Castle of the Counts), in the Flemish city of Ghent, has everything you would imagine in a medieval castle: strong stone fortifications, towers, a moat, and even a creepy torture museum inside!</string>
+    <string name="castle2">Montaigle Castle, Namur</string>
+    <string name="castle2about">Montaigle Castle, in the province of Namur, wins Andrew’s pick for best castle ruins in Belgium. He loved climbing over the crumbling stone walls. Hiking to the top also offers a great view over the surrounding landscape.</string>
+    <string name="castle3">Alden Biesen Castle, Limburg</string>
+    <string name="castle3about">Alden Biesen Castle, in Limburg, Flanders, is the most romantic castle we’ve visited, with its sprawling rose garden and pretty turrets. You can learn all about the less-than-romantic history inside the small but well-maintained museum.</string>
+
+    <!--Museums-->
+    <string name="museum1">Royal Belgian Institute of Natural Sciences</string>
+    <string name="museum1about">The Museum of Natural Sciences covers everything from animals to outer space and is a favourite with Brussels-based families. But it is best known as the Brussels Dinosaur Museum, as it holds the secrets to one of the world’s most important dino-discoveries – the Iguanodons of Bernissart. Thirty of the 38 Iguanodons found in this single deposit in Belgium are on display at the Museum of Natural Sciences, making it the world’s largest museum hall exclusively dedicated to dinosaurs. One of the most dramatic displays is a floor to ceiling glass cube, filled with nine towering Iguanodons. Read more about the dinosaur museum here. The museum is always striving to bring its exhibitions up-to-date and make them as interactive and engaging as possible, for children and adults alike. There is plenty to discover here, making the ‘dinosaur museum’ well worth a visit for all ages.</string>
+    <string name="museum2">Musical Instrument Museum</string>
+    <string name="museum2about">The Musical Instrument Museum, known locally as MIM, just might be our favourite museum in Brussels, and it’s certainly one we always recommend to our visiting friends. The architecture is a stunning mix of steel and glass with musical notes blended into the facade. Once a grand department store called Old England, it’s one of the finest examples of Art Nouveau in Brussels. Admission to this museum, dedicated to all things musical, includes an audio guide that starts automatically as you move through the 8000 instruments in the collection. Instead of a boring commentary, you hear a song played by the instrument you are viewing. There’s no messing around with French vs. Flemish here, as the language of music is universal. On the top floor is a lovely café with a stunning view of central Brussels. It’s well worth a visit even if you don’t have time for the whole museum. </string>
+    <string name="museum3">Cinquantenaire Museum</string>
+    <string name="museum3about">The Cinquantenaire Museum is part of the Royal Museums of Art and History and is a museum of civilisations, grouped loosely by region. It covers social history, cultural heritage, and decorative arts. The permanent collection includes a national ‘pre-history’ collection, Gallo-Roman archaeological finds, European decorative arts, antiquities from Egypt, Greece, Iran and Rome and vast collections of Non-European civilisations from America, Oceania, and Asia. The museum allows you to travel the world without leaving Brussels and serves as a great inspiration for exploring other cultures.</string>
+
+    <!--Site Seeing-->
+    <string name="siteSeeing1">The Atomium</string>
+    <string name="siteSeeing1about">Nine giant steel balls connected with thin tubes—it’s what Belgium and its capital call one of their ultimate symbols: the Atomium. The remarkable architectural feat was designed to look like an elementary iron crystal blown up to 165 billion times its size. The crown jewel to Brussels’s 1958 World’s Fair, the gravity-defying Atomium has remained a defining part of the city’s skyline.</string>
+    <string name="siteSeeing2">Brussels’s Grand-Place</string>
+    <string name="siteSeeing2about">Tell the world’s most imaginative drawer to come up with a prosperous, late medieval market square, and chances are you’ll get something like Brussels’s Grand-Place. The plaza, hidden from view and accessible through one of six spindly cobbled alleys, is guaranteed to overwhelm with dozens of baroque guild houses, the ornate “King’s House,” and the 15th-century City Hall. All contribute to the remarkably homogeneous look of Europe’s best-preserved medieval plaza.</string>
+    <string name="siteSeeing3">Flanders Fields</string>
+    <string name="siteSeeing3about">For the better part of the Great War, allied troops found themselves buried in a gruesome trench-war stalemate in the fields surrounding Ypres, in the Flemish part of Belgium. Memorials dot the countryside and city, and the nearly destroyed Cloth Hall is now the In Flanders Fields Museum, named after the famous poem.</string>
+</resources>
