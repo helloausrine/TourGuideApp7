@@ -13,6 +13,12 @@ public class Attraction {
         mImageResourceId = imageResourceId;
     }
 
+    public Attraction(int AttractionName, int AttractionDescription) {
+        mAttractionName = AttractionName;
+        mAttractionDescription = AttractionDescription;
+    }
+
+
     public int getTitleAttraction() {
         return mAttractionName;
     }
