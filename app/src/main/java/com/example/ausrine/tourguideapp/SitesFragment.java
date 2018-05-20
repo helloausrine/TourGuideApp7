@@ -22,9 +22,9 @@ public class SitesFragment extends Fragment {
 
         // Create a list of attractions
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
-        attractions.add(new Attraction(R.string.siteSeeing1, R.string.siteSeeing1about, R.drawable.piatra_craiului_national_park));
-        attractions.add(new Attraction(R.string.siteSeeing2, R.string.siteSeeing2about, R.drawable.retezat_national_park));
-        attractions.add(new Attraction(R.string.siteSeeing3, R.string.siteSeeing3about, R.drawable.ceahlau_national_park));
+        attractions.add(new Attraction(R.string.siteSeeing1, R.string.siteSeeing1about));
+        attractions.add(new Attraction(R.string.siteSeeing2, R.string.siteSeeing2about));
+        attractions.add(new Attraction(R.string.siteSeeing3, R.string.siteSeeing3about));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

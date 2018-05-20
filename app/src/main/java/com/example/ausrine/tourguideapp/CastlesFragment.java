@@ -22,9 +22,9 @@ public class CastlesFragment extends Fragment {
 
         // Create a list of attractions
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
-        attractions.add(new Attraction(R.string.castle1, R.string.castle1about, R.drawable.bran_castle));
-        attractions.add(new Attraction(R.string.castle2, R.string.castle2about, R.drawable.corvin_castle));
-        attractions.add(new Attraction(R.string.castle3, R.string.castle3about, R.drawable.fagaras_fortress));
+        attractions.add(new Attraction(R.string.castle1, R.string.castle1about));
+        attractions.add(new Attraction(R.string.castle2, R.string.castle2about));
+        attractions.add(new Attraction(R.string.castle3, R.string.castle3about));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

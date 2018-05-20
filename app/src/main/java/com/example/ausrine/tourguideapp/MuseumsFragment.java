@@ -25,9 +25,9 @@ public class MuseumsFragment extends Fragment {
 
         // Create a list of attractions
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
-        attractions.add(new Attraction(R.string.museum1, R.string.museum1about, R.drawable.arbore_monastery));
-        attractions.add(new Attraction(R.string.museum2, R.string.museum2about, R.drawable.humor_monastery));
-        attractions.add(new Attraction(R.string.museum3, R.string.museum3about, R.drawable.moldovita_monastery));
+        attractions.add(new Attraction(R.string.museum1, R.string.museum1about));
+        attractions.add(new Attraction(R.string.museum2, R.string.museum2about));
+        attractions.add(new Attraction(R.string.museum3, R.string.museum3about));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

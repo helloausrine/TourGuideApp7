@@ -25,9 +25,9 @@ public class CitiesFragment extends Fragment {
 
         // Create a list of attractions
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
-        attractions.add(new Attraction(R.string.city1, R.string.city1about, R.drawable.bucharest));
-        attractions.add(new Attraction(R.string.city2, R.string.city2about, R.drawable.cluj));
-        attractions.add(new Attraction(R.string.city3, R.string.city3about, R.drawable.timisoara));
+        attractions.add(new Attraction(R.string.city1, R.string.city1about, R.drawable.city_bruges));
+        attractions.add(new Attraction(R.string.city2, R.string.city2about, R.drawable.city_antwerp));
+        attractions.add(new Attraction(R.string.city3, R.string.city3about, R.drawable.city_brussels));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

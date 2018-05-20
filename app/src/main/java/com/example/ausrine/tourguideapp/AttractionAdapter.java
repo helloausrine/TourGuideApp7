@@ -13,8 +13,6 @@ import java.util.ArrayList;
 
 public class AttractionAdapter extends ArrayAdapter<Attraction> {
 
-    private int mColorResourceId;
-
     public AttractionAdapter(Context context, ArrayList<Attraction> attractions) {
         super(context, 0, attractions);
     }
@@ -55,13 +53,6 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
             // Otherwise hide the ImageView (set visibility to GONE)
             imageView.setVisibility(View.GONE);
         }
-
-        // Set the theme color for the list item
-        View textContainer = listItemView.findViewById(R.id.text_container);
-        // Find the color that the resource ID maps to
-        int color = ContextCompat.getColor(getContext(), mColorResourceId);
-        // Set the background color of the text container View
-        textContainer.setBackgroundColor(color);
 
         // Return the whole list item layout (containing 2 TextViews) so that it can be shown in
         // the ListView.
