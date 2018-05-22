@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorAccent">
@@ -13,29 +14,29 @@
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"/>
 
-    <RelativeLayout
+    <LinearLayout
         android:id="@+id/text_container"
         style="@style/TextContainer"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_below="@+id/image">
+        android:orientation="vertical">
 
         <TextView
             android:id="@+id/title"
             style="@style/TitleListItem"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="" />
+            tools:text="test"
+            android:layout_weight="1"/>
 
         <TextView
             android:id="@+id/description"
             style="@style/DescriptionListItem"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
-            tools:text="" />
+            android:layout_weight="1"
+            tools:text="test" />
 
-    </RelativeLayout>
+    </LinearLayout>
 
-</RelativeLayout>
+</LinearLayout>

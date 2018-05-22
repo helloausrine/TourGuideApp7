@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-
 import java.util.ArrayList;
 
 public class CastlesFragment extends Fragment {
@@ -33,7 +32,7 @@ public class CastlesFragment extends Fragment {
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
         // fragment_attractions_list.xml layout file.
-        ListView listView = (ListView) rootView.findViewById(R.id.list);
+        ListView listView = (ListView) rootView.findViewById(R.id.item_list);
 
         // Make the {@link ListView} use the {@link PagerAdapter} we created above, so that the
         // {@link ListView} will display list items for each {@link Attraction} in the list.

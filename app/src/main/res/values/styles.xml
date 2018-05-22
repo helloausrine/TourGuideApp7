@@ -36,7 +36,6 @@
     <!-- Style for the title of the list item -->
     <style name="TitleListItem">
         <item name="android:gravity">top</item>
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:textColor">@android:color/black</item>
         <item name="android:textStyle">bold</item>
         <item name="android:paddingRight">@dimen/padding_small</item>
@@ -47,7 +46,6 @@
     <!-- Style for the description of the list item -->
     <style name="DescriptionListItem">
         <item name="android:gravity">bottom</item>
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:textColor">@android:color/black</item>
         <item name="android:paddingRight">@dimen/padding_small</item>
         <item name="android:paddingLeft">@dimen/padding_medium</item>
