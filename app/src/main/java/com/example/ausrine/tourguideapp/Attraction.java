@@ -18,7 +18,6 @@ public class Attraction {
         mAttractionDescription = AttractionDescription;
     }
 
-
     public int getTitleAttraction() {
         return mAttractionName;
     }
